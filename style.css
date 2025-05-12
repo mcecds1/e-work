@@ -5,3 +5,24 @@
 
 
 /* Footer */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.footer {
+    background-color: #2d2c55;
+    color: #ffff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.footer a {
+    color: #828282;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.footer a:hover {
+    color: #ffff;
+}
